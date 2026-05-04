@@ -20,5 +20,7 @@ Dashboard interativo desenvolvido no Power BI com dados do Brasileirão.
 
 
 
-## 📁 Brasileirão
-O arquivo .pbix está disponível neste repositório.
+## 📁 Arquivo
+
+Acesse o dashboard aqui:  
+[Download do .pbix](data/Brasileirão.pbix)
